@@ -5,14 +5,14 @@
 <section class="heroe bg_main">
     <div class="fg_center hr__main">
         <h1 class="head__line">She Test Africa</h1>
-        <h2 class="sub_head_line">Tag line for she test africa. Tag line for she test africa...</h2>
+        <h2 class="sub_head_line">...Bridging the gap through QA</h2>
     </div>
 </section>
 
 <!-- ==================== END HEROE SECTION ======================== -->
 
 <!-- ==================== ABOUT US SECTION ======================== -->
-<section class="bg_main">
+<section class="bg_main" id="about">
     <div class="fg_center about">
         <div class="abt__1">
             <img src="img/Rectangle 2.png" alt="In Office">
@@ -24,10 +24,8 @@
             </div>
 
             <p class="abt__par">
-                Tag line for she test africa. 
-                Tag line for she test africa... 
-                Tag line for she test africa. 
-                Tag line for she test africa
+              Through software testing and quality assurance we hope
+              to bridge the global gender gap in technology, digital and entrepreneurship
             </p>
 
             <!-- Design vision section -->
@@ -41,28 +39,23 @@
                     <div class="par__1">
                         <h3 class="p_head">VISION</h3>
                         <p class="p_body">
-                            Tag line for she test africa. 
-                            Tag line for she test africa... 
-                            Tag line for she test africa. 
-                            Tag line for she test africa
+                            Is to bridge the gender gap in STEM through <br>
+                            software testing and quality assurance
                         </p>
                     </div>
                     <div class="par__1">
                         <h3 class="p_head">MISSION</h3>
                         <p class="p_body">
-                            Tag line for she test africa. 
-                            Tag line for she test africa... 
-                            Tag line for she test africa. 
-                            Tag line for she test africa
+                            Through networking, empowering and training activities we will 
+                            join and walk every female in africa to bridge the gender gap in STEM
                         </p>
                     </div>
                     <div class="par__1">
                         <h3 class="p_head">BENEFITS</h3>
                         <p class="p_body">
-                            Tag line for she test africa. 
-                            Tag line for she test africa... 
-                            Tag line for she test africa. 
-                            Tag line for she test africa
+                            Community, Inspiration, Soft skills, Empowerment, Tech skills,
+                            African inclusion, Mentorship, Networking, Professional Development, 
+                            Entrepreneurship, News and Opportunities
                         </p>
                     </div>
                 </div>
@@ -81,9 +74,15 @@
                 <h2 class="sub__title">Why Join Us?</h2>
             </div>
             <p class="j_txt">
-                Tag line for she test africa. Tag line for she test africa... 
-                Tag line for she test africa. Tag line for she test africa... 
-                Tag line for she test africa. Tag line for she test africa...
+                She Test Africa is a non-profit organization designed
+                with every african female in mind.
+                We strive to build an effective software
+                aquality assurance and testing community as a means
+                to encourage african women into the technology. <br><br>
+                We are not Oblivious of the challenges faced by platform 
+                that provides possible solutions to these 
+                differences and hindrances.
+
             </p>
         </div>
 
@@ -136,15 +135,11 @@
             </div>
 
             <p class="comm__txt">
-                Tag line for she test africa. 
-                Tag line for she test africa... 
-                Tag line foar she test africa.
-                Tag line for she test africa...
-                Tag line for she test africa. 
-                Tag line for she test africa...
+                Become part of a community of quality assurance, digital
+                and technology professionals together.
             </p>
 
-            <a href="#" class="join_btn_2">  JOIN US</a>
+            <a href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSeBRzBh973vtJUbs-RU6sbRtWpInqBWF4TemZxip142Jt9pBg/viewform" class="join_btn_2">  JOIN US</a>
       
         </div>
 
@@ -164,11 +159,9 @@
 
             <div class="sp__par">
                 <p class="p_sp">
-                    Tag line for she test africa... 
-                    Tag line foar she test africa.
-                    Tag line for she test africa...
-                    Tag line for she test africa. 
-                    Tag line for she test africa...
+                    If you believe in our mission do partner with us.
+                    Together we can make the sector more inclusive!
+
                 </p>
 
                 <div class="sp__btn">
@@ -365,7 +358,7 @@
 <!-- ==================== END TEAM SECTION ======================== -->
 
 <!-- ==================== CONNECT SECTION ======================== -->
-<section class="bg_main">
+<section class="bg_main" id="connect">
     <div class="fg_center connect">
         
         <div class="connect__1">
@@ -386,7 +379,7 @@
                 Tag line for she test africa...
             </p>
 
-            <a href="#" class="sp_link">BOOK A SESSION</a>
+            <a target="_blank" href="https://www.calendly.com/shetestafrica" class="sp_link">BOOK A SESSION</a>
         </div>
 
     </div>

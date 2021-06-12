@@ -75,10 +75,15 @@
 
     .privacy__1 .privacy__body {
         padding: 97px 40px;
+        font-size: 13px;
     }
 
+    .fq__center {
+        text-align: center;
+    }
     .conduct__1 .conduct__body {
         padding: 97px 40px;
+        font-size: 13px;
     }
     .join_us {
        flex-direction: column;
@@ -174,6 +179,7 @@
     .abt__2 {
         max-width: 100%;
         margin-top: 50px;
+        width: auto;
     }
 
  
@@ -308,7 +314,7 @@
     line-height: 33px;
    }
     .tag__icon {
-      height: 240px;
+      /* height: 240px; */
     }
 
     .about {
@@ -316,6 +322,9 @@
         row-gap: 100px;
     }
 
+    .box_1 {
+        width: 200px;
+    }
     .tag__icon > span {
         width: 30px;
         height: 30px;
@@ -345,7 +354,9 @@
         font-size: 40px !important;
     }
 
-
+    .abt__2{
+        width: auto;
+    }
 
 
 
@@ -374,6 +385,7 @@
     .abt__2 {
         padding: 0px 4px;
         margin: 0px;
+        width: auto;
     }
     .box_1 > i {
         font-size: 40px;
@@ -511,12 +523,29 @@
         width: 2px;
         height: 280px;
     }
+
+    .sub__menu__1 {
+        padding: 7px 20px;
+    }
+
+    .sub__menu__1 .sub__1 > i, .menu__1 > i {
+        font-size: 14px;
+    }
+
+    .main__menu .menu__1 {
+        padding: 0px 20px;
+    }
+
+
+
 }
 
 /* ====== For Mobile phones === */
 
-@media only screen and (max-width: 300px){
-    .hr__main > h1 {
+@media only screen and (max-width: 300px)
+{
+    .hr__main > h1 
+    {
         font-size: 30px;
         line-height: 30px;
     }
@@ -567,8 +596,17 @@
 
 
 
+    .sub__menu__1 {
+        padding: 7px 20px;
+    }
 
+    .sub__menu__1 .sub__1 > i, .menu__1 > i {
+        font-size: 14px;
+    }
 
+    .main__menu .menu__1 {
+        padding: 0px 20px;
+    }
 
 
 

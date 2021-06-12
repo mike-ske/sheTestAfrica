@@ -278,6 +278,7 @@ p {
 .abt__2 {
     margin: 0px 65px;
     max-width: 100%;
+    width: 100%;
 }
 .abt__par {
     font-style: normal;
@@ -817,7 +818,7 @@ p {
     text-align: center;
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
+    font-size: 14px;
     line-height: 36px;
     color: #f1f1f1;
     margin: 50px auto;
@@ -850,6 +851,7 @@ p {
 
 .fq__center {
     text-align: center;
+    margin: 100px auto;
 }
 
 .main__menu,
@@ -894,6 +896,14 @@ p {
     cursor: pointer;
 }
 
+
+.rotate {
+    transform: rotate(0deg) !important;
+}
+.sub__menu__1 .sub__1 > i, .menu__1 > i {
+    transform: rotate(-90deg);
+    transition: .5s ease all;
+}
 .sub__sub__1 {
     max-width: 100%;
     max-height: 0px;

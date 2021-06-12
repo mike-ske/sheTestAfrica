@@ -65,7 +65,9 @@ window.addEventListener("scroll", function () {
 // This code toggle between showing and hiding content
 
 let top__menu = document.getElementsByClassName("menu__1");
+// let top__menu = document.getElementsByClassName("menu__1");
 
+let arrow = document.getElementsByClassName("menu__1")[0].getElementsByClassName('arr1');
 
 
 console.log(top__menu);
@@ -73,11 +75,16 @@ for (let i = 0; i < top__menu.length; i++) {
     top__menu[i].addEventListener("click", function () {
       
         var panel = this.nextElementSibling;
-        
+       
+
       if (!panel.style.maxHeight) 
       {
-       panel.style.maxHeight = "100%"
-       
+       panel.style.maxHeight = "100%";
+    //    for (let i = 0; i < arrow.length; i++) 
+    //    {
+    //         arrow[i].classList.toggle("rotate");;
+    //       console.log(arrow[i]);
+    //    } 
        // this.nextElementSibling.style.maxHeight = panel.style.scrollHeight + "px";
       }
        else

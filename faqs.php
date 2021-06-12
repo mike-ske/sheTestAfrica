@@ -11,7 +11,7 @@
             
             <!-- Accordion menus -->
             <div class="main__menu">
-                    <span class="menu__1">General  <i class='bx bxs-down-arrow' ></i></span>
+                    <span class="menu__1">General  <i class='bx bxs-down-arrow arr1'></i></span>
 
                     <div class="sub__menu__1">
                 
@@ -53,7 +53,7 @@
                         
                     </div> 
 
-                    <span class="menu__1">Volunteer  <i class='bx bxs-down-arrow' ></i></span>
+                    <span class="menu__1">Volunteer  <i class='bx bxs-down-arrow arr1'></i></span>
 
                     <div class="sub__menu__1">
                         <span class="sub__1">What is She Test Africa?  <i class='bx bxs-down-arrow' ></i></span>
@@ -94,7 +94,7 @@
                     </div>
 
 
-                    <span class="menu__1">Partnership  <i class='bx bxs-down-arrow' ></i></span>
+                    <span class="menu__1">Partnership  <i class='bx bxs-down-arrow arr1'></i></span>
 
                     <div class="sub__menu__1">
                         <span class="sub__1">What is She Test Africa?  <i class='bx bxs-down-arrow' ></i></span>
@@ -134,7 +134,7 @@
                         </div>
                     </div>
 
-                    <span class="menu__1">Community  <i class='bx bxs-down-arrow' ></i></span>
+                    <span class="menu__1">Community  <i class='bx bxs-down-arrow arr1'></i></span>
 
                     <div class="sub__menu__1">
                         <span class="sub__1">What is She Test Africa?  <i class='bx bxs-down-arrow' ></i></span>
@@ -174,7 +174,7 @@
                         </div>
                     </div>
 
-                    <span class="menu__1">Help & Support  <i class='bx bxs-down-arrow' ></i></span>
+                    <span class="menu__1">Help & Support  <i class='bx bxs-down-arrow arr1'></i></span>
 
                     <div class="sub__menu__1">
                         <span class="sub__1">What is She Test Africa?  <i class='bx bxs-down-arrow' ></i></span>

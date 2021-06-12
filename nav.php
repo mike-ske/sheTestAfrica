@@ -13,14 +13,14 @@
                 <a href="./" class="link__1">Home</a>
             </li>
             <li class="list_1">
-                <a href="#" class="link__1">About</a>
+                <a href="#about" class="link__1">About</a>
             </li>
             <li class="list_1">
-                <a href="#" class="link__1">Contact Us</a>
+                <a href="#connect" class="link__1">Contact Us</a>
             </li>
 
             <div class="join_btn">
-                <a href="#" class="join__link">Join Us</a>
+                <a target="_blank"  rel="noopener noreferrer" href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSeBRzBh973vtJUbs-RU6sbRtWpInqBWF4TemZxip142Jt9pBg/viewform" class="join__link">Join Us</a>
             </div>
         </ul>
 
