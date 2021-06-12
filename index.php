@@ -139,7 +139,7 @@
                 and technology professionals together.
             </p>
 
-            <a href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSeBRzBh973vtJUbs-RU6sbRtWpInqBWF4TemZxip142Jt9pBg/viewform" class="join_btn_2">  JOIN US</a>
+            <a target="_blank"  href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSeBRzBh973vtJUbs-RU6sbRtWpInqBWF4TemZxip142Jt9pBg/viewform"  class="join_btn_2">  JOIN US</a>
       
         </div>
 
